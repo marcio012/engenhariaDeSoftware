@@ -36,6 +36,19 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
 
 2. Estimativa NESMA em pontos de função. (PF=35 _ ALI + 15 _ AIE)
 
+- Arquivo Lógico Interno (ALI) – é um grupo lógico de dados ou informações de controle sob o ponto de vista do usuário, cuja manutenção é feita pela aplicação (ANDRADE, 2004, p. 14). São exemplos de ALI, tabelas de banco de dados e arquivos de configurações mantidos na fronteira da aplicação;
+
+- Arquivo de Interface Externa (AIE) – é um grupo lógico de dados referenciado na aplicação cuja responsabilidade pela manutenção é de outra aplicação (ANDRADE, 2004, p. 14). Assim, um AIE não é mantido pela aplicação que está sendo contada, é apenas referenciado. Um AIE é na realidade um ALI de outra aplicação.
+
+  No sistema foi detectado 3 ALI e 0 AIE nesse inicio de analise.
+
+  ALI = 3
+  AIE = 0
+
+  ***
+
+  PF = 35 _ 3 + 15 _ 0 = 105
+
 3. Relação dos requisitos com descrição simplificada.
 4. História de Usuários.
 5. Persona primária.
