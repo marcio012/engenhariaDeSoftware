@@ -29,8 +29,13 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
 **Desenvolvimento de uma aplicação (Web, Mobile, Desktop)**
 
 1. Modelo conceitual dos dados (MER).
+   <!-- TODO: Rever o modelo conceitual -->
+
+   ![MER](./assets/MER.jpg)
+
 2. Estimativa NESMA em pontos de função. (PF=35 _ ALI + 15 _ AIE)
+
 3. Relação dos requisitos com descrição simplificada.
 4. História de Usuários.
 5. Persona primária.
-6. PMV para o produto (aplicação)(Produto Mínimo Viável)
+6. MVP para o produto "conceito da aplicação".(Minimal viable product)
