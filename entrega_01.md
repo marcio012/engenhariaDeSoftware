@@ -32,6 +32,7 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
    <!-- TODO: Rever o modelo conceitual -->
 
    ![MER](./assets/MER.jpg)
+   modelo feito com uso da ferramenta [draw.oi](https://desk.draw.io)
 
 2. Estimativa NESMA em pontos de função. (PF=35 _ ALI + 15 _ AIE)
 
