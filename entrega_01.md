@@ -52,8 +52,6 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
 3. Relação dos requisitos com descrição simplificada.
    Os Requisitos de um sistema são as descrições do que o sistema deve fazer, os serviços que oferece e as restrições ao seu funcionamento.
 
-   <!-- TODO: Fazer a checagem dos requisitos. -->
-
 - Requisitos do Usuários.
 
   1. O sistema de bolão deve gerar um relatório com os números apostados e os participantes do bolão, identificados com seus ramais e email e deve identificar com clareza os participantes que pagaram as cotas.
@@ -110,6 +108,7 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
 
 5. Persona primária.
 
-  <!-- TODO: Criar persona -->
+   ![PERSONA](./assets/Persona.png)
+   persona desenvolvida com uso da ferramenta [**Xtensio**](https://app.xtensio.com/design/w04t0200)
 
 6. MVP para o produto "conceito da aplicação".(Minimal viable product)
