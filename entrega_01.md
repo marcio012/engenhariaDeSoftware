@@ -86,6 +86,28 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
 
 4. História de Usuários.
 
+   Como um **apostador**
+   Eu quero ver os **bolões** disponíveis.
+
+   Para **apostar** ou associar a cotas
+   O **apostador** para encontrar o bolão desejado deve informar o nome do bolão.
+   O **sistema** deve informa as cotas para cada bolão associado.
+   O **apostador** fará escolha da sua aposta escolhendo os números e pagando sua cota ou cartão.
+   O **sistema** so aceitará participação do **apostador** mediante sua confirmação de pagamento.
+
+   ***
+
+   Como um **administrador**
+   Eu quero ver ou listar os _apostadores_ que fizeram suas apostas e pagaram.
+
+   Para **administrar** o fluxo de apostas
+   O **administrador** listará as cotas dos bolões
+   O **sistema** deve informa a data que ocorrera esse bolões.
+   O **administrador** selecionando o bolão em questão pode ver os apostadores participantes desse bolão.
+   O **sistema** informará os números sorteados para cada bolão.
+
+   ***
+
 5. Persona primária.
 
   <!-- TODO: Criar persona -->
