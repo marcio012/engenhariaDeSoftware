@@ -50,6 +50,44 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
   PF = 35 _ 3 + 15 _ 0 = 105
 
 3. Relação dos requisitos com descrição simplificada.
+   Os Requisitos de um sistema são as descrições do que o sistema deve fazer, os serviços que oferece e as restrições ao seu funcionamento.
+
+   <!-- TODO: Fazer a checagem dos requisitos. -->
+
+- Requisitos do Usuários.
+
+  1. O sistema de bolão deve gerar um relatório com os números apostados e os participantes do bolão, identificados com seus ramais e email e deve identificar com clareza os participantes que pagaram as cotas.
+
+- Requisitos Funcionais.
+
+  1. O Sistema possibilitará o cadastro de Usuário pelos campos de **input** de _email_ e seu _ramal_ e que devem ser únicos.
+
+  2. O Sistema cadastrará o valor da cota, junto aos campos de **input** dos _números de cotas_, os _números apostados_ e o _tipo de Bolão_, o _número do concurso_ como a _data_ que ocorrerá o sorteio.
+
+  3. O Sistema terá um controle fino e gerará um **output** relatório de quem pagou os bolões.
+
+  4. O sistema disponibilizará um **output** dos registro dos dados de sorteios, cotas, número apostado e tipos de bolões.
+
+  5. O sistema enviará email para os usuários com os dados referentes a suas apostas
+
+- Requisito não Funcional
+
+  1. O sistema armazenará dados das apostas dos bolões e poderá usar para eventuais análises futuras como também uso indiscriminado das mesmas.
+
+  2. O sistema terá o controle em forma de relatório dos usuários que pagaram os bolões.
+
+  3. O sistema não terá vinculo com alguma forma de pagamento.
+
+  4. O sistema terá que ser usual e de fácil compreensão, para que administra como também seus eventuais apostadores.
+
+  5. O sistema deve manter-se no ar 24/7. Havendo queda desse serviço ele deve-se alto gerenciar usando as politicas de auto gerenciamento junto com prevenção de falhas.
+
+  6. O sistema deve manter sua escalabilidade nos momentos de pico.
+
 4. História de Usuários.
+
 5. Persona primária.
+
+  <!-- TODO: Criar persona -->
+
 6. MVP para o produto "conceito da aplicação".(Minimal viable product)
