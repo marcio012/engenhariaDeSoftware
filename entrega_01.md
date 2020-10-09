@@ -113,8 +113,8 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
 
 6. MVP para o produto "conceito da aplicação".(Minimal viable product)
 
-   O Bolão da galera, e app onde se concentra apostadores fanáticos que não perdem uma boa aposta, sempre com intuito de gerar lucro para seus usuários o Bolão da Galera passa credibilidade e confiança aos seus colaboradores gerando uma ligação baseada em números, longa e duradora.
+   O Bolão da galera, e app onde se concentra apostadores fanáticos que não perdem uma boa aposta, sempre com intuito de gerar lucro para seus usuários o Bolão da Galera passa credibilidade e confiança aos seus colaboradores gerando uma ligação baseada em números, longa e duradoura.
 
-   O bolão consiste em usuários organizados selecionando o tipo de bolão, sendo os principais dele a mega-sena e quina, onde é disponibilizados cotas e números pra realização de suas apostas juntamente com a data que ocorrera o sorteio.
+   O bolão consiste em usuários organizados selecionando o tipo de bolão, sendo os principais dele a mega-sena e quina, onde é disponibilizadas cotas e números pra realização de suas apostas juntamente com a data que ocorrera o sorteio.
 
    O Bolão também disponibilizara de relatórios para gerenciar os apostadores que pagaram como também as cotas que foram sorteadas.
