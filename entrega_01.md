@@ -32,6 +32,7 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
    <!-- TODO: Rever o modelo conceitual -->
 
    ![MER](./assets/MER.jpg)
+
    modelo feito com uso da ferramenta [draw.oi](https://desk.draw.io)
 
 2. Estimativa NESMA em pontos de função. (PF=35 _ ALI + 15 _ AIE)
@@ -85,12 +86,17 @@ Entretanto, isso tem lhe tomado um tempo considerável. Sendo assim, ele pensou 
 4. História de Usuários.
 
    Como um **apostador**
+
    Eu quero ver os **bolões** disponíveis.
 
    Para **apostar** ou associar a cotas
+
    O **apostador** para encontrar o bolão desejado deve informar o nome do bolão.
+
    O **sistema** deve informa as cotas para cada bolão associado.
+
    O **apostador** fará escolha da sua aposta escolhendo os números e pagando sua cota ou cartão.
+
    O **sistema** so aceitará participação do **apostador** mediante sua confirmação de pagamento.
 
    ***
